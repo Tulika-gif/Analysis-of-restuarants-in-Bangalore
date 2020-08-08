@@ -28,7 +28,7 @@ This project will also help foodies to find the places where they can find their
 ![Top 20 places to find most number of restaurants that take online order in Bangalore](https://raw.githubusercontent.com/Tulika-gif/Analysis-of-restuarants-in-Bangalore/master/online.png "Top 20 places to find most number of restaurants that take online order in Bangalore")
 ![Top 10 places to find most number of restaurants that take table reservation](https://raw.githubusercontent.com/Tulika-gif/Analysis-of-restuarants-in-Bangalore/master/table_reservation.png "Top 10 places to find most number of restaurants that take table reservation")
 
-### Appreciation
+### Credits
 
-I would like to appreciate Zomato for helping me pooling data through their API.
+Data from Zomato Developer API.
 
