@@ -15,7 +15,7 @@ This project will also help foodies to find the places where they can find their
 ### Conclusions
 
 1) The most popular cuisine in Bangalore.
-2) Top 10 places to find most expensive restaurant in Bangalore.
+2) Top 10 places to find most expensive restaurants in Bangalore.
 3) Top 15 places to find top rated or popular restaurants in Bangalore.
 4) Top 20 places to find most number of restaurants in Bangalore.
 5) Top 20 places to find most number of restaurants that take online order in Bangalore.
