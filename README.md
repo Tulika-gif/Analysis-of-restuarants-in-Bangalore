@@ -1,14 +1,14 @@
 
-# Analysis of restuarants in Bangalore
+# Analysis of restaurants in Bangalore
 
 ### Background
 
 This project might help someone, who is looking for the best place to open a restaurant in Bangalore.
-This project will also help foodies to find the places where they can find their favourite cuisine or top rated restuarants.
+This project will also help foodies to find the places where they can find their favourite cuisine or top rated restaurants.
 
 ### Points to considered
 
-1) There are only list of restuarants doing business with Zomato.
+1) There are only list of restaurants doing business with Zomato.
 2) The data might differ due to covid19 situation as some of the restaurants might have shut down.
 3) The data was collected on April 2020 through Zomato API.
 
